@@ -5,6 +5,8 @@
 
 ![Report 2!](/Report%202.png)
 
+[View interactive dashboard here on PowerBI Services](https://app.powerbi.com/reportEmbed?reportId=237330de-4211-425a-bfce-29ceaf8e8677&autoAuth=true&ctid=074e20a7-88f8-40f1-920a-739fb6b10605)
+
 
 ## Overview
 This project is a Job Analytics Dashboard designed to provide insights into job market trends, salaries, and sources. The dashboard visualizes data using various charts and filters to help users analyze job opportunities effectively.
